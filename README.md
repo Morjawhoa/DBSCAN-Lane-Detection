@@ -1,4 +1,4 @@
-# Fault-Diagnose-Protonet
+# DBSCAN-Lane-Detection
 ## Getting Started
 ### Run
 ```bash
